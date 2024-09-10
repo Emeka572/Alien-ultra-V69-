@@ -17,7 +17,7 @@
 <a href=https://chadro-session-1.onrender.com>
   <img      src="https://img.shields.io/badge/SESSION_ID-blue" alt="Click Here to Get Pair-Code" width="110"></a>   
 
-href='https://github.com/altesse066/Chadro-BUG-Crash/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
+href='https://github.com/Chadro14/Alien-ultra-V69-/tree/main'target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
 
 👆👆
 
