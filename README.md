@@ -22,6 +22,7 @@
 👆👆
 
 **plateformes du déploiement*
+pour l'instant déployé d'abord sur panel il est le meilleur plateforme du déploiement il peut durer 6 jours a  7 jours
 
 ### 3. <a href='https://panel.solarhosting.cc' target="_blank"><img alt='Deployer sur Panel' src='https://img.shields.io/badge/-DEPLOYER SUR PANEL-pink?style=for-the-badge&logo=solar&logoColor=white'/></a>
 
